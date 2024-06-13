@@ -1,4 +1,4 @@
-FROM openjdk:17-jre-slim
+FROM adoptopenjdk/openjdk17-openj9:alpine-slim
 
 LABEL authors="oppor"
 
